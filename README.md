@@ -1,6 +1,6 @@
 # soda_music_flutter
 
-A new Flutter project.
+苏打音乐,flutter版本.
 
 ## Getting Started
 
